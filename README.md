@@ -2,9 +2,9 @@
 
 ## 1. Informasi Penyusun
 
-- **Nama:** `[NAMA LENGKAP MAHASISWA]`
-- **NIM:** `[NOMOR INDUK MAHASISWA]`
-- **Program Studi:** `[PROGRAM STUDI]`
+- **Nama:** `[I GUSTI AGUNG ADE SURYA ANANTA]`
+- **NIM:** `[2515091033]`
+- **Program Studi:** `[SISTEM INFORMASI]`
 - **Mata Kuliah:** Statistika dan Probabilitas
 
 ---
